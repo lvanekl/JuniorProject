@@ -1,0 +1,39 @@
+# главная папка
+
+/ЮНИОР_текст.docx
+/ЮНИОР_тезисы.docx
+/ИДЕИ_на_следующий_год.txt
+/Video_22-03-05_11-25-05.wmv
+/Video_22-03-02_17-10-33.wmv
+/fe.docx
+
+# общие файлы
+
+**/.ipynb_checkpoints
+**/.idea
+**/__pycache__
+
+# parse
+
+/Junior_code_and_data/parse/chromedriver.exe
+/Junior_code_and_data/parse/url.py
+
+# process
+
+/Junior_code_and_data/process/unneeded_stuff
+/Junior_code_and_data/process/analyze_images.py
+/Junior_code_and_data/process/graphs_for_presentation(не заливать).ipynb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
